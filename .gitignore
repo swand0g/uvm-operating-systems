@@ -58,3 +58,43 @@ dkms.conf
 # End of https://www.gitignore.io/api/c
 # Start custom rules
 .DS_Store
+.idea/
+Assignment 1/Program Files/.idea/
+Assignment 1/Program Files/CMakeLists.txt
+Assignment 1/Program Files/cmake-build-debug/Assignment_1
+Assignment 1/Program Files/cmake-build-debug/Assignment_1.cbp
+Assignment 1/Program Files/cmake-build-debug/CMakeCache.txt
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/tmp/
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/tmp/
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/Assignment_1.dir/C.includecache
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/Assignment_1.dir/DependInfo.cmake
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/Assignment_1.dir/build.make
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/Assignment_1.dir/cmake_clean.cmake
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/Assignment_1.dir/depend.internal
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/Assignment_1.dir/depend.make
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/Assignment_1.dir/flags.make
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/Assignment_1.dir/link.txt
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/Assignment_1.dir/progress.make
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/CMakeOutput.log
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/CMakeTmp/
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/Makefile.cmake
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/Makefile2
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/TargetDirectories.txt
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/clion-environment.txt
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/clion-log.txt
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/cmake.check_cache
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/feature_tests.bin
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/feature_tests.c
+Assignment 1/Program Files/cmake-build-debug/CMakeFiles/progress.marks
+Assignment 1/Program Files/cmake-build-debug/Makefile
+Assignment 1/Program Files/cmake-build-debug/cmake_install.cmake
+Assignment 2/Part 1/
