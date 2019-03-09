@@ -104,11 +104,13 @@ int main(int argc, char *argv[]) {
             return(8);
         }
 
-        for (int i = 0; i < numWords; i++) {
+        int i = 0;
+        while (i <numWords) {
             strcpy(ptr, words[i]);
             printf("(P) writing '%s' to shared memory\n", ptr);
             usleep(500000);
             printf("(P) read '%s' from the shared memory\n", ptr);
+            i++;
         }
 
     } else {
@@ -123,7 +125,9 @@ int main(int argc, char *argv[]) {
             return(8);
         }
 
-        for (int j = 0; j < numWords; j++) {
+        int j = 0;
+        while (j < numWords) {
+            j++;
 
             printf("(C) read this from shared memory: '%s'\n", ptr);
 
