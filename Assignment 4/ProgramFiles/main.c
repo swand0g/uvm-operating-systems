@@ -142,9 +142,11 @@ int main(int argc, char *argv[]) {
 
             usleep(1000000);
 
+
         }
 
         shmdt(ptr);
+        shmctl(memId, IPC_RMID, NULL);
         return (0);
 
     }
