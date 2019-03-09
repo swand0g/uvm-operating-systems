@@ -113,6 +113,8 @@ int main(int argc, char *argv[]) {
             i++;
         }
 
+        return (0);
+
     } else {
 
         // This is the child.
