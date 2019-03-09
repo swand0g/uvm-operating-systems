@@ -128,8 +128,10 @@ int main(int argc, char *argv[]) {
             printf("(C) read this from shared memory: '%s'\n", ptr);
 
             // Conversion
-            for (char *p = ptr; *p; p++) {
+            char *p = ptr;
+            while (*p) {
                 *p = toupper(*p);
+                p++;
             }
 
             printf("(C) write this to the shared memory: '%s'\n", ptr);
