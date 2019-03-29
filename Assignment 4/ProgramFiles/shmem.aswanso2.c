@@ -1,5 +1,5 @@
 //
-//  main.c
+//  shmem.c
 //  CS201Assignment4
 //
 //  Created by Alexander Swanson on 3/8/19.
@@ -102,7 +102,10 @@ int main(int argc, char *argv[]) {
      * for this anomaly is that the operating system is shuffling contents of memory locations as a result of other
      * running programs. I do not believe I would change any of the structure of my program... However, I would conduct
      * more research in order to learn what I could do to force the Operating System to allow me constant access to
-     * memory locations I instantiate data in -- if this is indeed the problem.
+     * memory locations I instantiate data in -- if this is indeed the problem. Furthermore, I have found that on a
+     * Linux system (as opposed to a Mac OS system), after the parent reads and writes the last word in the list, four
+     * more instances of the child's program sequence run. These are very likely the instructions that were intended to
+     * run as the program was executing but were surely postponed by the operating system.
      */
 
 }
